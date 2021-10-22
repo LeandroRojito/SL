@@ -1,0 +1,30 @@
+.header1{
+  padding: auto;
+color: yellowf;
+
+}
+header{
+color: aliceblue;  
+margin-left: 850px;
+padding-top: 10px;
+}
+body{
+    background:url(/src/main/resources/static/imagenes/54857.jpg) ;
+}
+.links{
+   
+    margin: 50px;
+}
+#a1{
+    margin-left: 300px; 
+   
+}
+#a2{
+    margin-left: 500px; 
+}
+#a3{
+    margin-left: 500px; 
+}
+.b{
+    background: url();
+}
